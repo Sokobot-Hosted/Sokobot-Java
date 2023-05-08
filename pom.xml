@@ -17,4 +17,13 @@
     </dependency>
 
   </dependencies>
+  
+  
+  <distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>Sokobot-Hosted</name>
+     <url>https://maven.pkg.github.com/Sokobot-Hosted/Sokobot-Java</url>
+   </repository>
+</distributionManagement>
 </project>
